@@ -2,7 +2,7 @@
 
 A Java-based library management application demonstrating object-oriented programming principles, developed for CSP3341 Programming Languages and Paradigms.
 
-## 📚 Project Overview
+##  Project Overview
 
 This project implements a library management system that demonstrates key Java programming concepts including:
 - Object-Oriented Programming (OOP)
@@ -11,7 +11,7 @@ This project implements a library management system that demonstrates key Java p
 - Collections Framework
 - Exception Handling
 
-## 🎯 Features
+##  Features
 
 - **Book Management**: Add, update, delete, and search books
 - **Member Management**: Support for different member types (Student, Faculty, Public)
@@ -19,7 +19,7 @@ This project implements a library management system that demonstrates key Java p
 - **Search & Filter**: Search books by title, author, ISBN, or genre
 - **Borrowing Limits**: Different limits based on member type
 
-## 🏗️ Architecture
+##  Architecture
 
 The system follows a three-tier architecture:
 
@@ -40,7 +40,7 @@ The system follows a three-tier architecture:
 └─────────────────────────────────┘
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 csp3341-java-library-system/
@@ -69,7 +69,7 @@ csp3341-java-library-system/
 └── README.md
 ```
 
-## 🔧 Technology Stack
+##  Technology Stack
 
 | Component | Technology | Version |
 |-----------|-----------|---------|
@@ -78,7 +78,7 @@ csp3341-java-library-system/
 | Testing | JUnit | 5.10.x |
 | VCS | Git/GitHub | - |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -116,7 +116,7 @@ csp3341-java-library-system/
 mvn test
 ```
 
-## 💡 Usage Example
+##  Usage Example
 
 ```java
 // Create books
@@ -133,7 +133,7 @@ student.borrowBook(book1);
 student.displayBorrowedBooks();
 ```
 
-## 📊 Class Hierarchy
+##  Class Hierarchy
 
 ```
 Member (Abstract)
@@ -150,7 +150,7 @@ Member (Abstract)
 | Faculty | 5 | 28 days |
 | Public | 2 | 7 days |
 
-## 📈 Development Roadmap
+## Development Roadmap
 
 - [x] Basic class structure
 - [x] Inheritance implementation
@@ -164,27 +164,27 @@ Member (Abstract)
 
 This is an academic project for CSP3341. Contributions are not currently accepted.
 
-## 📝 License
+##  License
 
 This project is created for educational purposes as part of CSP3341 coursework at Edith Cowan University.
 
-## 👨‍💻 Author
+##  Author
 
-**[Your Name]**
-- Student ID: [Your Student ID]
+**[Yuwani Samaranayake]**
+- Student ID: 10639090
 - Unit: CSP3341 Programming Languages and Paradigms
 - Institution: Edith Cowan University
 - Date: December 2024
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - James Gosling and the Java development team
 - Joshua Bloch - Effective Java
 - Course instructors at Edith Cowan University
 
-## 📧 Contact
+##  Contact
 
-For questions or feedback, please contact: [your.email@example.com]
+For questions or feedback, please contact: yuwaninomalka21@gmail.com]
 
 ---
 
